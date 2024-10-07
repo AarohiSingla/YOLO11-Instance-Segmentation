@@ -1,4 +1,4 @@
-## Instamce Segmentation (Using YOLO11 (Brain Tumor Segmentation)
+## Instance Segmentation (Using YOLO11 (Brain Tumor Segmentation)
 
 ### Youtube Tuutorial: https://youtu.be/SwG9BSWIpBs
 
